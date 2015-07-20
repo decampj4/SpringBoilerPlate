@@ -1,4 +1,4 @@
-package com.chimp.junit;
+package com.springboilerplate.junit;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

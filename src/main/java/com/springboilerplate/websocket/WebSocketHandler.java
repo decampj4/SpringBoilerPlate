@@ -1,4 +1,4 @@
-package com.chimp.websocket;
+package com.springboilerplate.websocket;
 
 import org.springframework.web.socket.TextMessage;
 import org.springframework.web.socket.WebSocketSession;
